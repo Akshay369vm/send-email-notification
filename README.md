@@ -6,7 +6,7 @@
 Using [the Python library](https://pypi.org/project/sendgrid/), send email to people
 with the content & subject of your choice.
 
-This repository is used inside Github Actions in the following format:
+This repository is used inside Github Actions in the following format:...
 
 ## Send email to one address
 
